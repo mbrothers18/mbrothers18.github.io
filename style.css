@@ -1,0 +1,41 @@
+h1, h2 {
+	color: red;
+	background-color: black;
+	text-align: center;
+}
+
+p, ol, ul, h1, h2, .svrimages{
+	max-width: 1200px;
+	min-width: 500px;
+	font-family: Georgia;
+}
+
+.quick-links {
+	text-align: center;
+	margin: 15px;
+	font-family: Georgia;
+	max-width: 1200px;
+	min-width: 800px;
+}
+
+.quick-links a {
+	color: black;
+	background-color: red;
+	padding: 5px 20px;
+	margin: 10px;
+}
+
+.titleIMG {
+	width: 100%;
+}
+
+.svrimages {
+	text-align: center;
+}
+
+.svrimages img {
+	text-align: center;
+	border: solid black;
+	width: 1000px;
+	height: 600px;
+}
