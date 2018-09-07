@@ -63,6 +63,13 @@ td
 .xl68
 	{mso-style-parent:style0;
 	font-size:10.0pt;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;}
+.xl69
+	{mso-style-parent:style0;
+	font-size:10.0pt;
 	font-weight:700;
 	font-family:Arial;
 	mso-generic-font-family:auto;
@@ -70,13 +77,6 @@ td
 	text-align:center;
 	background:yellow;
 	mso-pattern:black none;}
-.xl69
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-family:Arial;
-	mso-generic-font-family:auto;
-	mso-font-charset:0;
-	text-align:center;}
 .xl70
 	{mso-style-parent:style0;
 	font-size:10.0pt;
@@ -86,13 +86,4 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	background:#FF6600;
-	mso-pattern:black none;}
-.xl71
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-family:Arial;
-	mso-generic-font-family:auto;
-	mso-font-charset:0;
-	text-align:center;
-	background:#FCD5B4;
 	mso-pattern:black none;}
