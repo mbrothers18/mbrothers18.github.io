@@ -1,7 +1,8 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
+xmlns:mv="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=macintosh">
@@ -12,7 +13,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=themeData href="Rules_files/themedata.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:Zoom>87</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves/>
   <w:TrackFormatting/>
@@ -643,10 +644,15 @@ table.MsoNormalTable
 	font-family:Arial;
 	mso-ansi-language:EN;}
 </style>
-<![endif]-->
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
 </head>
 
-<body bgcolor=white lang=EN-US style='tab-interval:.5in'>
+<body lang=EN-US style='tab-interval:.5in'>
 
 <div class=WordSection1>
 
@@ -696,8 +702,8 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span>1.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Teams will consist of five
-cities (three starters and two bench). Acquisition of cities via draft, free
+mso-bidi-font-family:"Times New Roman";color:black'>Teams will consist of six
+cities (three starters and three bench). Acquisition of cities via draft, free
 agency, and trades are explained in Section 2.<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.0in;mso-add-space:auto;
@@ -710,10 +716,11 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black'>Each season will be scored
-based off of various meteorological phenomena occurring at cities defined in Section
-3. Teams will be ranked against opposing teams in each of these categories for
-each month as well as their season total for select categories. Points will be
-awarded based on how close the team is to the leader in each category.<o:p></o:p></span></p>
+based off of various meteorological phenomena occurring at cities defined in
+Section 3. Teams will be ranked against opposing teams in each of these
+categories for each month as well as their season total for select categories.
+Points will be awarded based on how close the team is to the leader in each
+category.<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -735,9 +742,9 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span>1.3.1.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Each category winner
-recieves 1 point with the remainder of the field recieving their fraction of
-the winner’s value (i.e. if 1<sup>st</sup> place has 30 in of snow, 2<sup>nd</sup>
+mso-bidi-font-family:"Times New Roman";color:black'>Each category winner recieves
+1 point with the remainder of the field revieving their fraction of the
+winner’s value (i.e. if 1<sup>st</sup> place has 30 in of snow, 2<sup>nd</sup>
 place has 27 in, and 3<sup>rd</sup> place has 18 in, then the points awarded
 are 1, 0.9, and 0.6 respectively). <o:p></o:p></span></p>
 
@@ -767,8 +774,8 @@ mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"
 style='color:black'> 3 point with the remainder of the field </span>receiving<span
 style='color:black'> their fraction of the winner’s value </span>multiplied<span
 style='color:black'> by 3 (i.e. if 1<sup>st</sup> place has 30 in of snow, 2<sup>nd</sup>
-place has 27 in, and 3<sup>rd</sup> place has 18 in, then the points awarded are
-3, 2.7, and 1.8 respectively). <o:p></o:p></span></span></p>
+place has 27 in, and 3<sup>rd</sup> place has 18 in, then the points awarded
+are 3, 2.7, and 1.8 respectively). <o:p></o:p></span></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -866,8 +873,7 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black'>Teams consist of three starting
-cities and two bench cities. Each team will also assign one city as the captain
-every week. Captains explained in Section 3.4.<o:p></o:p></span></p>
+cities and three bench cities. <o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -894,31 +900,6 @@ mso-bidi-font-family:"Times New Roman";color:black'>Weekly roster changes may
 be made before 00z Monday for the upcoming week or by 00Z on the first day of
 the month. <o:p></o:p></span></p>
 
-<p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
-text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
-border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><![if !supportLists]><span
-lang=EN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>2.2.4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Captains<o:p></o:p></span></p>
-
-<p class=normalCxSpMiddle style='margin-left:2.0in;mso-add-space:auto;
-text-indent:-2.0in;mso-text-indent-alt:-.25in;mso-list:l0 level4 lfo1;
-border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><![if !supportLists]><span
-lang=EN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>2.2.4.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Each team can assign one
-city as their Captain. When a city is listed as captain, all of the scores from
-that city will be doubled during the period it is listed as captain of the
-team. Captains can be changed during weekly roster changes. <o:p></o:p></span></p>
-
 <p class=normalCxSpMiddle style='margin-left:1.0in;mso-add-space:auto;
 text-indent:-1.0in;mso-text-indent-alt:-.25in;mso-list:l0 level2 lfo1;
 border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><![if !supportLists]><span
@@ -935,31 +916,29 @@ text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
 border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><![if !supportLists]><span
 lang=EN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman";
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+color:black;background:yellow;mso-highlight:yellow'><span style='mso-list:Ignore'><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>2.3.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>An Auction style draft will
-occur in late November before the WxFL winter season begins. Each team is
-allocated $100 of spending money to bid on cities to fill out their roster.<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";color:black;background:yellow;
+mso-highlight:yellow'>An Auction style draft will occur in late November before
+the WxFL winter season begins. Each team is allocated $50 of spending money to
+bid on six teams to fill out their roster (~$8 per team).<span
+style="mso-spacerun:yes">&nbsp; </span><o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
 border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><a
 name="_gjdgxs"></a><![if !supportLists]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'><span style='mso-list:Ignore'><span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+mso-bidi-font-family:"Times New Roman";color:black;background:red;mso-highlight:
+red'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>2.3.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Teams will submit bids on
-cities in a blind auction format (without knowledge on other team’s bidding
-prices) to fill out their roster while remaining under their auction money
-allotment. Subsequent rounds of bidding will occur until all teams receive the number
-of cities to fill out their roster. If two teams bid the same amount on a city,
-they will be notified to submit a new price in the subsequent rounds, but no
-other teams allowed to join the bidding.<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";color:black;background:red;mso-highlight:
+red'>Live or Blind Auction?<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.0in;mso-add-space:auto;
 text-indent:-1.0in;mso-text-indent-alt:-.25in;mso-list:l0 level2 lfo1;
@@ -1012,27 +991,10 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span>2.4.3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>After the auction draft,
-the waiver wire will be set with the teams losing the most amount of bids (and
-using least amount of bidding money) being placed at the top. Once a team picks
-up a city, they will be moved to the bottom of the waiver list. The waiver list
-will be reset at the beginning of each month as the reverse order of the
-previous month’s standings.<o:p></o:p></span></p>
-
-<p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
-text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
-border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><![if !supportLists]><span
-lang=EN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman";
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>2.4.4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Each team will be limited
-to making four add/drop roster moves per month. The one exception to this rule
-is during the last add/drop period of a season. These transactions will not
-count towards a team’s limit as they prepare their roster for the new season’s
-scoring categories. <o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";color:black'>Once a team picks up a
+city, they will be moved to the bottom of the waiver list. The waiver list will
+be reset at the beginning of each month as the reverse order of the previous
+month’s standings.<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.0in;mso-add-space:auto;
 text-indent:-1.0in;mso-text-indent-alt:-.25in;mso-list:l0 level2 lfo1;
@@ -1057,8 +1019,8 @@ line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times Ne
 mso-bidi-font-family:"Times New Roman";color:black'>Teams are allowed to trade
 any number of cities to another team if an agreement can be reached. If there’s
 not a 1:1 ratio of trade pieces being exchanged, then you must submit
-accompanying roster moves (add/drop) so that your roster consists of exactly five
-cities. <o:p></o:p></span></p>
+accompanying roster moves (add/drop) so that your roster consists of exactly
+six cities. <o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -1084,8 +1046,8 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black'>Traded cities, like free
-agents, will not be available in the new team’s active lineup until the
-upcoming weekly roster change. <o:p></o:p></span></p>
+agents, will not be available in the new team’s active lineup until the upcoming
+weekly roster change. <o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:.5in;mso-add-space:auto;
 text-indent:-.5in;mso-text-indent-alt:-.25in;mso-list:l0 level1 lfo1;
@@ -1157,8 +1119,8 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black'>Severe Weather Days (count
-of days with tornado, hail and/or wind reports within 100 miles <span
-style='background:yellow;mso-highlight:yellow'>plus</span>) -- Monthly Scoring<o:p></o:p></span></p>
+of days with tornado, hail and/or wind reports within 100 miles) -- Monthly
+Scoring<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.0in;mso-add-space:auto;
 text-indent:-1.0in;mso-text-indent-alt:-.25in;mso-list:l0 level2 lfo1;
@@ -1192,8 +1154,8 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span>3.2.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Accumulated Rainfall (in)
--- Monthly Scoring<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";color:black'>Accumulated QPF (in) --
+Monthly Scoring<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -1205,8 +1167,7 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black'>Tornado Days (count of days
-with tornado reports within 50 miles <span style='background:yellow;mso-highlight:
-yellow'>plus</span>) -- Monthly and Seasonal Scoring<o:p></o:p></span></p>
+with tornado reports within 50 miles) -- Monthly and Seasonal Scoring<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -1218,8 +1179,8 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black'>Severe Weather Days (count
-of days with hail and/or wind reports within 50 miles <span style='background:
-yellow;mso-highlight:yellow'>plus</span>) -- Monthly and Seasonal Scoring<o:p></o:p></span></p>
+of days with hail and/or wind reports within 50 miles) -- Monthly and Seasonal
+Scoring<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.0in;mso-add-space:auto;
 text-indent:-1.0in;mso-text-indent-alt:-.25in;mso-list:l0 level2 lfo1;
@@ -1241,8 +1202,8 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span>3.3.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Accumulated Rainfall (in)
--- Monthly and Seasonal Scoring<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";color:black'>Accumulated QPF (in) --
+Monthly and Seasonal Scoring<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -1253,8 +1214,8 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span>3.3.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:black'>Maximum 24-hr Rainfall (in)
--- Monthly Scoring<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";color:black'>Maximum 24-hr QPF (in) --
+Monthly Scoring<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
 text-indent:-1.5in;mso-text-indent-alt:-.25in;mso-list:l0 level3 lfo1;
@@ -1279,8 +1240,7 @@ color:black'><span style='mso-list:Ignore'><span style='font:7.0pt "Times New Ro
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black'>Severe Weather Days (count
-of days with tornado, hail and/or wind reports within 75 miles <span
-style='background:yellow;mso-highlight:yellow'>plus</span>) -- Monthly and
+of days with tornado, hail and/or wind reports within 75 miles) -- Monthly and
 Seasonal Scoring<o:p></o:p></span></p>
 
 <p class=normalCxSpMiddle style='margin-left:1.0in;mso-add-space:auto;
